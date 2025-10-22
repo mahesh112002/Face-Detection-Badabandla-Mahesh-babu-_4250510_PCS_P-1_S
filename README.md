@@ -1,3 +1,7 @@
 Proposed Solution 
-The proposed solution involves building a Python-based face detection system using OpenCV and MTCNN. The process includes capturing or loading an image/video, preprocessing the data, applying a face detection model, and marking detected faces with bounding boxes. The implementation uses Python libraries like OpenCV, NumPy, TensorFlow, and Dlib. The system aims to detect multiple faces in real time with high accuracy and can be extended to face recognition or emotion analysis modules. Expected Outcome 
+
+The proposed solution involves building a Python-based face detection system using OpenCV and MTCNN. The process includes capturing or loading an image/video, preprocessing the data, applying a face detection model, and marking detected faces with bounding boxes. The implementation uses Python libraries like OpenCV, NumPy, TensorFlow, and Dlib. The system aims to detect multiple faces in real time with high accuracy and can be extended to face recognition or emotion analysis modules.
+
+Expected Outcome 
+
 A system capable of detecting human faces in images or videos in real time. The detected faces are highlighted using bounding boxes, demonstrating accurate, efficient, and robust detection even under varying lighting and background conditions. This project showcases the power of computer vision in enhancing real-world automation and monitoring systems.
